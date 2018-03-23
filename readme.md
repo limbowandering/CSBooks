@@ -101,4 +101,5 @@
 ### Linux
 
 - 跟鸟哥学Linux(To read)
+- 快乐的Linux命令行(http://linuxcommand.org/)(To read)
 
