@@ -29,75 +29,76 @@
 
 ### 软件工程
 
-- 人月神话
-- 人件
+- 人月神话(To read)
+- 人件(To read)
 
 ### 经典书籍
 
-- 代码大全
-- 重构: 改善既有代码的设计
-- 代码整洁之道
-- 深入理解计算机系统
-- 编译原理
+- 代码大全(To read)
+- 重构: 改善既有代码的设计(To read)
+- 代码整洁之道(To read)
+- 深入理解计算机系统(To read)
+- 编译原理(To read)
 
 ### 技术之外
 
-- 软技能-代码之外的生存指南
+- 软技能-代码之外的生存指南(To read)
 - ​
 
 ### 数据结构与算法
 
-- 算法-第四版
-- 算法导论
+- 算法-第四版(To read)
+- 算法导论(To read)
 
 ### HTML
 
 - HTML权威指南(To Read)
-- HTML5 程序设计 第2版
+- HTML5 程序设计 第2版(To read)
 
 ### CSS
 
-- CSS Secrets
-- CSS权威指南
+- CSS Secrets(To read)
+- CSS权威指南(To read)
 
 ### JavaScript
 
-- JavaScript高程3
-- JavaScript DOM编程艺术
-- JavaScript权威指南 第六版 犀牛书
-- JavaScript语言精粹
-- 编写可维护的JavaScript
-- 学习JavaScript数据结构与算法
-- JavaScript忍者秘籍
-- 高性能JavaScript
-- 你不知道的JavaScript
-- ES6标准入门(阮一峰老师)
-- Effective JavaScript
-- JavaScript设计模式与开发实践
-- 锋利的JQuery
-- JavaScript异步编程
+- JavaScript高程3(To read)
+- JavaScript DOM编程艺术(To read)
+- JavaScript权威指南 第六版 犀牛书(To read)
+- JavaScript语言精粹(To read)
+- 编写可维护的JavaScript(To read)
+- 学习JavaScript数据结构与算法(To read)
+- JavaScript忍者秘籍(To read)
+- 高性能JavaScript(To read)
+- 你不知道的JavaScript(To read)
+- ES6标准入门(阮一峰老师)(To read)
+- Effective JavaScript(To read)
+- JavaScript设计模式与开发实践(To read)
+- 锋利的JQuery(To read)
+- JavaScript异步编程(To read)
 
 ### Web相关
 
-- Web性能权威指南
-- Web API的设计与开发
-- 黑客攻防技术宝典 -web实战篇
+- Web性能权威指南(To read)
+- Web API的设计与开发(To read)
+- 黑客攻防技术宝典 -web实战篇(To read)
 - ​
 
 ### Node
 
-- 深入浅出NodeJS
+- 深入浅出NodeJS(To read)
 
 ### 前端框架
 
-- Angular权威指南
+- Angular权威指南(To read)
 
 ### HTTP
 
-- 图解HTTP
-- HTTP权威指南
-- HTTP2基础教程
+- 图解HTTP(To read)
+- HTTP权威指南(To read)
+- HTTP2基础教程(To read)
 
 ### Linux
 
-- 跟鸟哥学Linux
+- 跟鸟哥学Linux(To read)
+
