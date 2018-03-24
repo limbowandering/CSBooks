@@ -72,6 +72,7 @@
 - 高性能JavaScript(To read)
 - 你不知道的JavaScript(To read)
 - ES6标准入门(阮一峰老师)(To read)
+- 深入理解ES6(To read)
 - Effective JavaScript(To read)
 - JavaScript设计模式与开发实践(To read)
 - 锋利的JQuery(To read)
