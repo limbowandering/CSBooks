@@ -106,4 +106,4 @@
 - 快乐的Linux命令行(http://linuxcommand.org/)(To read)
 
 ### 有效沟通
-- 用数据讲故事
+- 用数据讲故事(To read)
